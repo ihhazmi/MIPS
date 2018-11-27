@@ -1,0 +1,22 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "Done" LOC = C17;
+NET "Processor_in[0]" LOC = G18;
+NET "Processor_in[1]" LOC = H18;
+NET "Processor_in[2]" LOC = K18;
+NET "Processor_in[3]" LOC = K17;
+NET "Processor_in[4]" LOC = L14;
+NET "Processor_in[5]" LOC = L13;
+NET "Processor_in[6]" LOC = N17;
+NET "Processor_out[0]" LOC = J14;
+NET "Processor_out[1]" LOC = J15;
+NET "Processor_out[2]" LOC = K15;
+NET "Processor_out[3]" LOC = K14;
+NET "Processor_out[4]" LOC = E16;
+NET "Processor_out[5]" LOC = P16;
+NET "Processor_out[6]" LOC = E4;
+NET "Processor_out[7]" LOC = P4;
+NET "Start" LOC = H13;
+NET "clock" LOC = U9;
+NET "reset" LOC = B18;

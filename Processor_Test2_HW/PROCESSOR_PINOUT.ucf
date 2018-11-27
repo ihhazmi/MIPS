@@ -1,0 +1,33 @@
+
+# PlanAhead Generated IO constraints 
+
+NET "Processor_in[0]" LOC = G18;
+NET "Processor_in[1]" LOC = H18;
+NET "Processor_in[2]" LOC = K18;
+NET "Processor_in[3]" LOC = K17;
+NET "Processor_in[4]" LOC = L14;
+NET "Processor_in[5]" LOC = L13;
+NET "Processor_in[6]" LOC = N17;
+NET "Processor_in[7]" LOC = R17;
+
+NET "Start" LOC = H13;
+NET "clock" LOC = U9;
+NET "reset" LOC = B18;
+
+NET "an[0]" LOC = F17;
+NET "an[1]" LOC = H17;
+NET "an[2]" LOC = C18;
+NET "an[3]" LOC = F15;
+
+NET "sseg[0]" LOC = L18;
+NET "sseg[1]" LOC = F18;
+NET "sseg[2]" LOC = D17;
+NET "sseg[3]" LOC = D16;
+NET "sseg[4]" LOC = G14;
+NET "sseg[5]" LOC = J17;
+NET "sseg[6]" LOC = H14;
+
+NET "Done" LOC = P4;
+
+
+
